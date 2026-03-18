@@ -2,7 +2,7 @@
 
 **디자인, 퍼블리싱, 프론트엔드 개발까지 직접 경험한 웹 디자이너 & 퍼블리셔 이유림의 포트폴리오**
 
-[![Deploy](https://img.shields.io/badge/🌐_Live_Site-yurim--web.github.io/yurim__publish-667eea?style=for-the-badge)](https://yurim-web.github.io/yurim_publish)
+[![Deploy](https://img.shields.io/badge/🌐_Live_Site-yurim--web.github.io/publisher--portfolio-667eea?style=for-the-badge)](https://yurim-web.github.io/publisher-portfolio)
 [![Source](https://img.shields.io/badge/📦_Source_Code-publisher--portfolio-24292e?style=for-the-badge&logo=github)](https://github.com/yurim-web/publisher-portfolio)
 
 ---
