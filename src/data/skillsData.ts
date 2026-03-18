@@ -101,19 +101,19 @@ export const skillList: SkillItem[] = [
   },
   {
     name: 'Figma',
-    description: '기본적인 화면 설계와 간단한 UI 디자인 작업이 가능하며, 꾸준히 학습하고 있습니다.',
+    description: '와이어프레임과 UI 디자인 작업이 가능하며, 컴포넌트 기반의 화면 설계와 프로토타입 제작 경험이 있습니다.',
     img: figmaImg,
   },
   {
     name: 'Photoshop',
     description:
-      '사진 보정, 합성, 상세페이지, SNS디자인 등 다양한 실무 디자인을 창의적으로 제작할 수 있습니다.',
+      '사진 보정, 합성, 상세페이지, SNS 배너, 광고 배너 등 다양한 실무 디자인을 제작하며, 실무에서 가장 많이 활용하는 핵심 디자인 툴입니다.',
     img: photoshopImg,
   },
   {
     name: 'Illustrator',
     description:
-      '간단한 캐릭터 디자인, 로고 디자인 등 깔끔하고 돋보이는 백터 디자인을 제작할 수 있습니다.',
+      '로고 디자인, 아이콘, 캐릭터 등 벡터 기반 디자인을 제작할 수 있으며, 인쇄물 및 웹용 그래픽 작업에 활용하고 있습니다.',
     img: illustratorImg,
   },
   {

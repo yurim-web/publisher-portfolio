@@ -136,7 +136,7 @@ export const professional_projects: ProfessionalProject[] = [
     id: 1,
     project_name: 'Herzion Shop',
     period: '2025.04 – 2025.07',
-    role: 'Frontend Developer',
+    role: 'Web Designer & Publisher',
     tech_stack: [
       { name: 'HTML', icon: `${process.env.PUBLIC_URL}/assets/skill_img/html.png` },
       { name: 'CSS', icon: `${process.env.PUBLIC_URL}/assets/skill_img/css.png` },
@@ -145,7 +145,7 @@ export const professional_projects: ProfessionalProject[] = [
       { name: 'EmailJS', icon: `${process.env.PUBLIC_URL}/assets/skill_img/api.jpg` },
     ],
     description:
-      'Cafe24 플랫폼을 활용한 광고주 홈페이지의 프론트엔드 개발 및 유지보수를 담당했습니다. EmailJS를 연동한 문의 폼을 직접 구현하며 실무 프론트엔드 개발 역량을 발휘했습니다.',
+      'Cafe24 플랫폼을 활용한 광고주 홈페이지를 기획·디자인부터 퍼블리싱·개발까지 전 과정을 단독으로 담당했습니다. EmailJS를 연동한 문의 폼을 직접 구현하며 디자인과 개발 역량을 모두 발휘했습니다.',
     image: `${process.env.PUBLIC_URL}/assets/professional_projects/herzion_banner.jpg`,
     view_link: 'https://herzionshop.cafe24.com/',
     github_link: 'https://github.com/yurim-web/aribio_final_kor',
@@ -154,7 +154,7 @@ export const professional_projects: ProfessionalProject[] = [
     id: 2,
     project_name: 'ReportingX.',
     period: '2025.05 – 2025.08',
-    role: 'Frontend Developer',
+    role: 'Web Designer & Publisher',
     tech_stack: [
       { name: 'HTML', icon: `${process.env.PUBLIC_URL}/assets/skill_img/html.png` },
       { name: 'CSS', icon: `${process.env.PUBLIC_URL}/assets/skill_img/css.png` },
@@ -171,7 +171,7 @@ export const professional_projects: ProfessionalProject[] = [
     id: 3,
     project_name: '스웨디시 뉴트라',
     period: '2024.07 – 2024.08',
-    role: 'Frontend Developer',
+    role: 'Web Designer & Publisher',
     tech_stack: [
       { name: 'HTML', icon: `${process.env.PUBLIC_URL}/assets/skill_img/html.png` },
       { name: 'CSS', icon: `${process.env.PUBLIC_URL}/assets/skill_img/css.png` },
@@ -179,7 +179,7 @@ export const professional_projects: ProfessionalProject[] = [
       { name: 'Cafe24', icon: `${process.env.PUBLIC_URL}/assets/skill_img/cafe24.png` },
     ],
     description:
-      'Cafe24 템플릿을 기반으로 광고주 쇼핑몰을 제작한 프로젝트로, 프론트엔드 커스텀 개발을 100% 단독 담당했습니다. 기본 템플릿에서 벗어나 HTML·CSS·JavaScript로 디자인과 기능을 전면 커스텀하여 브랜드에 맞는 쇼핑몰을 구현했습니다.',
+      'Cafe24 템플릿을 기반으로 광고주 쇼핑몰을 제작한 프로젝트로, 디자인 커스텀 및 퍼블리싱을 100% 단독 담당했습니다. 기본 템플릿에서 벗어나 브랜드에 맞는 디자인을 적용하고 HTML·CSS·JavaScript로 전면 커스텀하여 쇼핑몰을 구현했습니다.',
     image: `${process.env.PUBLIC_URL}/assets/professional_projects/swedish_banner.jpg`,
     view_link: 'https://swedishnutra.kr/',
     github_link: 'https://github.com/yurim-web/swedishnutra_code',

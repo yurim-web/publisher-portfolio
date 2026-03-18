@@ -1,6 +1,6 @@
 # 🚀 이유림의 포트폴리오
 
-> **프론트엔드 개발자 이유림의 포트폴리오 웹사이트**  
+> **웹 디자이너 & 퍼블리셔 이유림의 포트폴리오 웹사이트**  
 > React, TypeScript, GSAP을 활용한 인터랙티브한 포트폴리오
 
 ![Deployment Status](https://img.shields.io/badge/Deployment-Live-brightgreen) ![GitHub](https://img.shields.io/badge/GitHub-yurim--web-black?logo=github) ![Live Site](https://img.shields.io/badge/Live%20Site-Visit%20Now-blue)
@@ -11,7 +11,7 @@
 
 👉 **[https://yurim-web.github.io](https://yurim-web.github.io)**
 
-📂 **소스 코드**: [https://github.com/yurim-web/frontend-portfolio](https://github.com/yurim-web/frontend-portfolio)
+📂 **소스 코드**: [https://github.com/yurim-web/design-dev-portfolio](https://github.com/yurim-web/design-dev-portfolio)
 
 
 ## 🛠️ 기술 스택
@@ -39,7 +39,7 @@ src/
 
 ```bash
 # 저장소 클론
-git clone https://github.com/yurim-web/frontend-portfolio.git
+git clone https://github.com/yurim-web/design-dev-portfolio.git
 
 # 의존성 설치
 npm install
@@ -64,7 +64,7 @@ npm run build
 
 <div align="center">
 
-**💻 프론트엔드 개발자 이유림의 포트폴리오**
+**🎨 웹 디자이너 & 퍼블리셔 이유림의 포트폴리오**
 
 Made with ❤️ by 이유림
 
