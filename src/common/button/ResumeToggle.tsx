@@ -16,7 +16,7 @@ const sectionData = [
   { id: 3, label: 'PROJECT', color: '#4ecdc4', elementId: 'project' },
   { id: 4, label: 'PROFESSIONAL', color: '#45b7d1', elementId: 'professional' },
   { id: 5, label: 'LEARNING', color: '#96ceb4', elementId: 'portfolio' },
-  { id: 6, label: 'WEB DESIGN', color: '#feca57', elementId: 'web_design' },
+  { id: 6, label: 'WEB & APP DESIGN', color: '#feca57', elementId: 'web_design' },
   { id: 7, label: 'CONTACT', color: '#ff9ff3', elementId: 'contact' },
 ];
 

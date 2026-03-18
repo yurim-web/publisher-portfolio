@@ -135,7 +135,7 @@
 | 3 | PROJECT | project |
 | 4 | PROFESSIONAL | professional |
 | 5 | LEARNING | portfolio |
-| 6 | WEB DESIGN | web_design |
+| 6 | WEB & APP DESIGN | web_design |
 | 7 | CONTACT | contact |
 
 **동작**

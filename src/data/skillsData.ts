@@ -101,7 +101,8 @@ export const skillList: SkillItem[] = [
   },
   {
     name: 'Figma',
-    description: '와이어프레임과 UI 디자인 작업이 가능하며, 컴포넌트 기반의 화면 설계와 프로토타입 제작 경험이 있습니다.',
+    description:
+      '기본적인 와이어프레임과 UI 디자인 작업이 가능하며, 컴포넌트 기반의 화면 설계를 학습하고 있습니다.',
     img: figmaImg,
   },
   {

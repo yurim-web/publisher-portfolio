@@ -18,12 +18,12 @@ const About = () => {
           <div className="about_text">
             <h3 className="name">Lee yurim</h3>
             <p className="greeting">
-              기획부터 디자인, 퍼블리싱, 프론트엔드 개발까지 직접 경험한{' '}
+              디자인, 퍼블리싱, 프론트엔드 개발까지 직접 경험한{' '}
               <span className="highlight_tech">웹 디자이너 & 퍼블리셔</span> 이유림입니다.
             </p>
             <p className="description">
-              광고주 홈페이지를 기획·디자인부터 퍼블리싱·배포까지 100% 책임진 경험이 있으며,
-              SaaS 서비스의 랜딩 및 웹 페이지 프론트엔드를 단독으로 구현했습니다.{' '}
+              광고주 홈페이지를 디자인부터 퍼블리싱·배포까지 100% 책임진 경험이 있으며, SaaS
+              서비스의 랜딩 및 웹 페이지 프론트엔드를 단독으로 구현했습니다.{' '}
               <span className="highlight_tech">디자인 감각과 구현력</span>을 모두 갖추고 있으며,
               Photoshop·Illustrator·Figma를 활용한 디자인 실무와 HTML·CSS·JavaScript 기반의
               퍼블리싱을 강점으로 삼고 있습니다.

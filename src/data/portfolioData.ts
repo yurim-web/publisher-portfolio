@@ -89,7 +89,7 @@ export const portfolio_sections: PortfolioItem[] = [
     bgColor: '#fef3c7',
     textColor: '#1e293b',
     content:
-      '입생로랑(YSL) 공식 홈페이지를 새롭게 기획한 포트폴리오 사이트입니다. GSAP.js를 활용한 다양한 애니메이션 효과로 세련된 디자인을 강조했습니다.',
+      '입생로랑(YSL) 공식 홈페이지를 새롭게 디자인한 포트폴리오 사이트입니다. GSAP.js를 활용한 다양한 애니메이션 효과로 세련된 디자인을 강조했습니다.',
     year: '2024',
     period: '2024.11.02 ~ 2024.11.15',
     participation: '개인 100%',
@@ -111,7 +111,7 @@ export const portfolio_sections: PortfolioItem[] = [
     subtitle: 'Waveyy',
     bgColor: '#dcfce7',
     textColor: '#1e293b',
-    content: 'Next.js와 영화·드라마 API를 활용해 기획하고 만든 영화,드라마 정보 사이트입니다.',
+    content: 'Next.js와 영화·드라마 API를 활용해 만든 영화,드라마 정보 사이트입니다.',
     year: '2024',
     period: '2024.12.01 ~ 2024.12.12',
     participation: '개인 100%',
@@ -145,7 +145,7 @@ export const professional_projects: ProfessionalProject[] = [
       { name: 'EmailJS', icon: `${process.env.PUBLIC_URL}/assets/skill_img/api.jpg` },
     ],
     description:
-      'Cafe24 플랫폼을 활용한 광고주 홈페이지를 기획·디자인부터 퍼블리싱·개발까지 전 과정을 단독으로 담당했습니다. EmailJS를 연동한 문의 폼을 직접 구현하며 디자인과 개발 역량을 모두 발휘했습니다.',
+      'Cafe24 플랫폼을 활용한 광고주 홈페이지를 디자인부터 퍼블리싱·개발까지 전 과정을 단독으로 담당했습니다. EmailJS를 연동한 문의 폼을 직접 구현하며 디자인과 개발 역량을 모두 발휘했습니다.',
     image: `${process.env.PUBLIC_URL}/assets/professional_projects/herzion_banner.jpg`,
     view_link: 'https://herzionshop.cafe24.com/',
     github_link: 'https://github.com/yurim-web/aribio_final_kor',
